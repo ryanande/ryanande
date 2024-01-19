@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I am a highly analytical and innovative professional with experience in the design, implementation, and documentation of application architectures along with expertise in specific technology domain areas, such as software development, cloud infrastructure, systems engineering, security architecture, application architecture, and networking. 
+
+I have a solid understanding and knowledge of software development tools, practices, and methodologies. I am offering proven expertise in architecting/operating applications on Kubernetes along with experience in migrating legacy applications to the cloud and containerized solutions. 
+
+My value-added skills in .NET Systems Architecture specializing in web-based solutions and software development team management, full stack development, Cloud, AWS & Azure, and platformization. My technical proficiencies include Kubernetes, Go (Programming Language), Terraform, .NET Framework, Microsoft SQL Server, SQL, ASP.NET, C#, SOA, Web Services, XML, T-SQL, JavaScript, React, Vue.js, NServiceBus, Azure, and AWS.
+
 <!--
 **ryanande/ryanande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
